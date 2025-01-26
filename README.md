@@ -4,7 +4,10 @@
 DOWNLOAD: https://github.com/profmitchell/png2hdri/releases/tag/1.0
 
 <img width="406" alt="Screenshot 2025-01-25 at 11 35 42 PM" src="https://github.com/user-attachments/assets/ffd56373-f66b-4a98-9acc-69eb37470b65" />
-![icon](https://github.com/user-attachments/assets/e193fdcd-eacf-4e38-9a40-b8ffcd3ddd66)
+
+
+<img width="406" src= "https://github.com/user-attachments/assets/ac45b5bb-ebe2-4221-8c2d-4cb15ecdd4b5" />
+
 
 
 This repository provides two Python applications to convert PNG images into HDR format with optional upscaling. Both a **Tkinter GUI version** and a **Streamlit modern web-based version** are included for flexibility and ease of use.
