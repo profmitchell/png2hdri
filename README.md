@@ -1,6 +1,8 @@
 
 # PNG to HDR Converter
 
+DOWNLOAD: https://github.com/profmitchell/png2hdri/releases/tag/1.0
+
 <img width="406" alt="Screenshot 2025-01-25 at 11 35 42 PM" src="https://github.com/user-attachments/assets/ffd56373-f66b-4a98-9acc-69eb37470b65" />
 <img width="692" alt="Screenshot 2025-01-25 at 11 36 10 PM" src="https://github.com/user-attachments/assets/cf2f2ab1-0a1f-4349-b0c8-cf1560f6dbb3" />
 
